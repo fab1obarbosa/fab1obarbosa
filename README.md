@@ -27,8 +27,6 @@
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/fabio-barbosa-754927152/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  ![Snake animation](https://raw.githubusercontent.com/fab1obarbosa/fab1obarbosa/output/github-contribution-grid-snake.svg)
-
-)
  
 </div>
   
