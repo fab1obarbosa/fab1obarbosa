@@ -26,7 +26,9 @@
   <a href = "mailto:barbosafabio3110@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/fabio-barbosa-754927152/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/fab1obarbosa/fab1obarbosa/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://raw.githubusercontent.com/fab1obarbosa/fab1obarbosa/output/github-contribution-grid-snake.svg)
+
+)
  
 </div>
   
