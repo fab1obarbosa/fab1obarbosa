@@ -1,5 +1,13 @@
 ###  👨‍💻👍 Hi, my name is Fabio Barbosa. I'm a programming student and at the moment I focus on front-end, both web and mobile. 👍👨‍💻
 
+<!-- Modo claro/dark adaptável -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fab1obarbosa/fab1obarbosa/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fab1obarbosa/fab1obarbosa/output/github-contribution-grid-snake.svg" />
+  <img alt="Github Snake Animation" src="https://raw.githubusercontent.com/fab1obarbosa/fab1obarbosa/output/github-contribution-grid-snake.svg" />
+</picture>
+
+
 <br><div align="center">
   <a href="https://github.com/fab1obarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fab1obarbosa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
